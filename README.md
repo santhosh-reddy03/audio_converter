@@ -19,7 +19,7 @@ if using fedora based systems
 
 ## App Installation
 
-Download the **main.sh** file from this repo and make it executable by using **chmod +x main.sh**
+Download the `main.sh` file from this repo and make it executable by using `chmod +x main.sh`
 
 ## Usage
 
